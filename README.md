@@ -5,7 +5,11 @@ Kelompok 8:
 2. Mahendra Yudistira Siahaan
 3. Pujiarti
 
-
+Post Credit Instagram Model Thriftshop:
+1. https://instagram.com/thrift.or.dare?utm_medium=copy_link
+2. https://instagram.com/ayongethrift?utm_medium=copy_link
+3. https://instagram.com/pizar.id?utm_medium=copy_link
+4. 
 # Screenshoot:
 ![screencapture-localhost-project-bpwl-2021-07-21-00_25_41](https://user-images.githubusercontent.com/74707401/126368721-0b50c73a-21c3-466f-bfc3-41e796c1f3ad.png)
 
