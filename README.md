@@ -26,6 +26,8 @@ Credit Instagram Model Thriftshop:
 
 ![Capture](https://user-images.githubusercontent.com/74707401/126370157-4f4c4e57-3cc3-4984-8aa4-9c2698262caf.JPG)
 
+![screencapture-localhost-project-bpwl-admin-2021-07-21-00_47_51](https://user-images.githubusercontent.com/74707401/126371469-3ee1a0d8-2998-4e35-bd95-ced84fdc48fc.png)
+
 ![screencapture-localhost-project-bpwl-admin-manageAdmin-2021-07-21-00_38_58](https://user-images.githubusercontent.com/74707401/126370256-0568ef3a-5ab7-4118-9f0e-c847bdad391d.png)
 
 ![screencapture-localhost-project-bpwl-admin-productlist-2021-07-21-00_39_46](https://user-images.githubusercontent.com/74707401/126370388-6c2a416f-3875-45de-bfd6-33a5cf832394.png)
