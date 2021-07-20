@@ -11,7 +11,7 @@ Kelompok 8:
 
 ![screencapture-localhost-project-bpwl-shop-men-2021-07-21-00_29_55](https://user-images.githubusercontent.com/74707401/126369262-2d5c38c4-edb0-4b8c-8107-876125b8e8fd.png)
 
-![screencapture-localhost-project-bpwl-shop-men-2021-07-21-00_29_55](https://user-images.githubusercontent.com/74707401/126369148-f1c42510-c327-4f70-a1e3-0a01a39c1b9c.png)
+![screencapture-localhost-project-bpwl-category-women-winter-2021-07-21-00_34_58](https://user-images.githubusercontent.com/74707401/126369811-61b82807-c290-435a-8586-46090fd326eb.png)
 
 ![screencapture-localhost-project-bpwl-shop-about-2021-07-21-00_31_45](https://user-images.githubusercontent.com/74707401/126369399-c2de0d84-702d-4e48-b82e-b5eb1e913fb8.png)
 
