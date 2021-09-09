@@ -2,9 +2,9 @@
 
 Project advanced web development workshop
 
-1. Fajar Subarkah
-2. Mahendra Yudistira Siahaan
-3. Pujiarti
+1. Fajar
+2. Mahen
+3. Puji
 
 Credit Instagram Model Thriftshop:
 1. https://instagram.com/thrift.or.dare?utm_medium=copy_link
